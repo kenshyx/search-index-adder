@@ -3557,7 +3557,7 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@^5.1.1, safe-buffer@^5.1.2, 
 
 "search-index-searcher@https://github.com/kenshyx/search-index-searcher":
   version "0.4.2"
-  resolved "https://github.com/kenshyx/search-index-searcher#be0ce68a1de28ac0e0949d219151d37376d42af4"
+  resolved "https://github.com/kenshyx/search-index-searcher#ecad06ce4be58d752d87fe890d2ad5105fc777c9"
   dependencies:
     intersect-arrays-to-stream "^0.0.3"
     js-logger "^1.4.1"
