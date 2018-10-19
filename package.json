@@ -49,7 +49,7 @@
     "cz-conventional-changelog": "^2.0.0",
     "level-browserify": "^2.0.0",
     "reuters-21578-json": "^0.0.8",
-    "search-index-searcher": "^0.4.2",
+    "search-index-searcher": "https://github.com/kenshyx/search-index-searcher",
     "standard": "^8.5.0",
     "standard-changelog": "^1.0.1",
     "stopword": "^0.1.1",
